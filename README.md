@@ -14,13 +14,17 @@
         <tr>
             <td>Hajatina</td>
             <td>22</td>
-            <td>Informatique</td>
+            <td>Gestion</td>
         </tr>
         <tr>
             <td>Anjary oliviane</td>
             <td>21</td>
             <td>Gestion</td>
         </tr>
+        <tr>
+              <td>Dyanah</td>
+              <td>20</td>
+              <td>Gestion</td>
     </table>
 </body>
 </html>
