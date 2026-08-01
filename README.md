@@ -4,7 +4,7 @@
     <title>Exemple de tableau</title>
 </head>
 <body>
-    <h2>Tableau des étudiants</h2>
+    <h2>Tableau répartition des étudiants</h2>
     <table border="1">
         <tr>
             <th>Nom</th>
