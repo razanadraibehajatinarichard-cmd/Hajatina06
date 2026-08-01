@@ -17,7 +17,7 @@
             <td>Informatique</td>
         </tr>
         <tr>
-            <td>mathématique appliquée</td>
+            <td>Anjary oliviane</td>
             <td>21</td>
             <td>Gestion</td>
         </tr>
